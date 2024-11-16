@@ -32,7 +32,5 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 
 # Examples
 
-![Alt text](mint-chadwm1.png)
-![Alt text](mint-chadwm2.png)
-![Alt text](mint-chadwm3.png)
-![Alt text](mint-chadwm4.png)
+![Alt text](fedora-1.png)
+
